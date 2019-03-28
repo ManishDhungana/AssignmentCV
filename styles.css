@@ -1,0 +1,93 @@
+body{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+h3 h4{
+font-family:Courier New;
+}
+.vl {
+  border-left: 6px solid green;
+  height: 10px;
+}
+#w { margin: 0px 50px; padding: 20px 40px; padding-top: 35px; background: #fff; 
+min-width: 260px;  border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; 
+-webkit-border-bottom-left-radius: 8px; -webkit-border-bottom-right-radius: 8px; -moz-border-radius-bottomleft: 8px;
+ -moz-border-radius-bottomright: 8px; }
+
+header { width: 100%; }
+
+/** @group personal settings **/
+#info { float: left; margin-bottom: 12px; }
+#photo { float: right; }
+#photo img { 
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+background-color: #fff;
+border: 1px solid #ccc;
+padding: 5px; 
+}
+
+.lf{
+    margin-left: 0px;
+    padding-left: 0px;
+    height: auto;
+  
+}
+.cvhead{
+   display: block;
+  text-align: center;
+ 
+    font-weight: bold;
+}
+.name{
+  
+    font-weight: bold;
+    text-align: center;
+    
+}
+.lastname{
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+}
+.rightpart{
+    height: 650px;
+  
+}
+.headsix{
+    
+    font-weight: bold;
+    text-align:left;
+    opacity: 1.8;
+}
+.headanswer{
+ 
+    text-align: center;
+    font-weight: bold;
+    font-size: 18;
+}
+.cvlist{
+    margin-left: 50px;
+    font-style: italic;
+    font-weight: 400;
+	list-style-type: square;
+   
+}
+.certificate{
+    width:200px;
+    height: 200px;
+    padding: 30px;
+    
+}
+.cvlista{
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
